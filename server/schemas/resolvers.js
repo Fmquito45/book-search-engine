@@ -11,8 +11,7 @@ const resolvers = {
             throw new AuthenticationError;
         },
     },
-
-
+   
 };
 
 module.exports = resolvers;
